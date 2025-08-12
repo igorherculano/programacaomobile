@@ -1,0 +1,24 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorherculano/programacaomobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorherculano/programacaomobile/issues"
+  },
+  "homepage": "https://github.com/igorherculano/programacaomobile#readme",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}
